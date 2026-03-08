@@ -20,7 +20,7 @@ Sou um especialista na criação de modelos de Inteligência Artificial e no des
 - 🧠 **Especialista em I.A. e Séries Temporais:** Foco na criação de modelos avançados de *Deep Learning*, com grande expertise no desenvolvimento de **LSTM Autoencoders** e redes neurais em PyTorch para detecção de anomalias e *forecasting* de equipamentos.
 - ⚙️ **Arquitetura, SCADA e Protocolos:** Desenvolvimento de sistemas centrais utilizando **Python Flask**, atuando na integração direta dos modelos preditivos com **sistemas SCADA** e dominando os principais **protocolos de comunicação da indústria elétrica**.
 - 🤝 **Atuação Interdisciplinar:** Colaboração estratégica e contínua com os departamentos de **Engenharia Mecânica e Elétrica**, garantindo que as soluções de I.A. tenham precisão técnica e impacto real e mensurável na operação dos ativos.
-- 📊 **O que estou construindo:** APIs escaláveis em Flask para servir predições de ponta a ponta e a estruturação de dashboards dinâmicos para visualização de dados industriais em tempo real.
+- 📊 **O que estou construindo:** APIs escaláveis em Flask para servir predições de ponta a ponta e a estruturação de sistemas dinâmicos para visualização, predição, análise e detecção de falhas através de dados industriais em tempo real.
 
 ---
 
