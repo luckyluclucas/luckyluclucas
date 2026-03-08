@@ -13,11 +13,11 @@
 
 **Machine Learning Engineer @ Copel G&T**
 
-Sou especialista em Inteligência Artificial aplicada ao setor elétrico. Na Copel, crio pontes entre a engenharia (mecânica/elétrica) e o software, desenvolvendo modelos preditivos de *Deep Learning* para séries temporais (como **LSTM Autoencoders** via **PyTorch**) focados na detecção de falhas em usinas hidrelétricas. 
+Sou especialista em Inteligência Artificial aplicada ao setor elétrico. Na Copel, crio pontes entre a engenharia (mecânica/elétrica) e o software, desenvolvendo modelos preditivos de *Deep Learning* (Recurrent Neural Networks) para séries temporais focados na detecção de falhas em usinas hidrelétricas. 
 
-Atuo de ponta a ponta: desde a pesquisa dos modelos até a arquitetura e integração direta com **sistemas SCADA** e protocolos industriais utilizando **Python Flask**.
+Atuo de ponta a ponta: desde a pesquisa dos modelos até a arquitetura e integração direta com **sistemas SCADA** e protocolos industriais, SAP, e sistemas internos utilizando **Python Flask**.
 
-**Stack Principal:** Python, PyTorch, Flask, Pandas, Scikit-Learn, TypeScript e React.
+**Stack Principal:** Python, PyTorch, Flask, Pandas, Scikit-Learn, TypeScript, JS, WEB, SQL, DATABASES.
 
 ---
 
