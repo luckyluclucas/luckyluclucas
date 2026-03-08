@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá! 👋 Eu sou o LucLucas (@luckyluclucas)</h1>
+  <h1> Rean Lucas - eu mesmo (@luckyluclucas)</h1>
   <p>
     <a href="https://portfolio-lovat-gamma-35.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-Meu_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
     <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -10,35 +10,37 @@
 
 ## 👨‍💻 Sobre mim
 
-> **Fullstack Developer & Machine Learning Engineer driving predictions for hydroelectric power plants.**<br>
+> **Machine Learning Engineer & Especialista em Inteligência Artificial para o Setor Elétrico.**<br>
 > *Copel G&T*
 
-Sou um desenvolvedor apaixonado por unir o ecossistema de **Desenvolvimento Web** e o poder da **Inteligência Artificial**. Atualmente, trabalho desenvolvendo soluções analíticas e modelos preditivos para usinas hidrelétricas na Copel, integrando esses modelos com interfaces e APIs robustas.
+Sou um especialista na criação de modelos de Inteligência Artificial e no desenvolvimento de arquiteturas de software de alta performance. Na Copel, lidero o design e a implementação de soluções preditivas para usinas hidrelétricas, transformando dados industriais brutos em inteligência operacional crítica. Minha atuação une profundo conhecimento analítico com engenharia de software robusta.
 
 - 🌍 Baseado no Brasil.
-- 💼 Trabalhando atualmente na **Copel**.
-- 🧠 Foco principal: **Machine Learning, Previsão de Dados (Forecasting) e Desenvolvimento Fullstack**.
-- ⚡ O que estou construindo: Boilersplates como o **NextSimpleCommerce** e experimentando novas soluções com Next.js.
+- 💼 **Machine Learning Engineer** na Copel.
+- 🧠 **Especialista em I.A. e Séries Temporais:** Foco na criação de modelos avançados de *Deep Learning*, com grande expertise no desenvolvimento de **LSTM Autoencoders** e redes neurais em PyTorch para detecção de anomalias e *forecasting* de equipamentos.
+- ⚙️ **Arquitetura, SCADA e Protocolos:** Desenvolvimento de sistemas centrais utilizando **Python Flask**, atuando na integração direta dos modelos preditivos com **sistemas SCADA** e dominando os principais **protocolos de comunicação da indústria elétrica**.
+- 🤝 **Atuação Interdisciplinar:** Colaboração estratégica e contínua com os departamentos de **Engenharia Mecânica e Elétrica**, garantindo que as soluções de I.A. tenham precisão técnica e impacto real e mensurável na operação dos ativos.
+- 📊 **O que estou construindo:** APIs escaláveis em Flask para servir predições de ponta a ponta e a estruturação de dashboards dinâmicos para visualização de dados industriais em tempo real.
 - 📫 Como me encontrar: Entre em contato pelo meu [Portfólio](https://portfolio-lovat-gamma-35.vercel.app/).
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### Machine Learning & Ciência de Dados
-*(Tecnologias focadas em criação de modelos, análise e previsões)*
+### Inteligência Artificial & Ciência de Dados
+*(Criação de modelos complexos, análise de séries temporais e predições)*
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-### Desenvolvimento Fullstack
-*(Tecnologias focadas na construção de sistemas escaláveis)*
+### Engenharia de Software & Integração
+*(Arquitetura de sistemas industriais e APIs de alta disponibilidade)*
 <p>
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
@@ -56,10 +58,10 @@ Sou um desenvolvedor apaixonado por unir o ecossistema de **Desenvolvimento Web*
 
 ## 🚀 Projetos em Destaque
 
-* 🛒 **[NextSimpleCommerce](https://github.com/luckyluclucas/NextSimpleCommerce)**: Um boilerplate/starter kit simples, porém efetivo, para plataformas de e-commerce criado com **Next.js** e **TypeScript**.
-* 💻 **[Meu Portfólio](https://github.com/luckyluclucas/portfolio)**: Repositório contendo o código-fonte do meu site pessoal.
+* ⚙️ **Integração Preditiva Industrial (Flask & LSTM)**: Arquitetura de backend e inteligência artificial para monitoramento contínuo e previsão de falhas em ativos de geração de energia, totalmente integrado a sistemas SCADA. *(Repositório Privado/Empresarial)*
+* 💻 **[Meu Portfólio](https://github.com/luckyluclucas/portfolio)**: Repositório contendo o código-fonte do meu site pessoal, demonstrando minha interface com desenvolvimento web.
 
 ---
 <div align="center">
-  <i>"Transformando dados em previsões e código em soluções."</i>
+  <i>"Transformando dados industriais em inteligência preditiva e código em operações de alta confiabilidade."</i>
 </div>
