@@ -11,7 +11,7 @@
 
 # Fechadão com JESUS
 
-**Machine Learning Engineer @ Copel G&T**
+**Machine Learning Engineer at Copel G&T**
 
 Sou especialista em Inteligência Artificial aplicada ao setor elétrico. Crio pontes entre a engenharia (mecânica/elétrica) e o software, desenvolvendo modelos preditivos de *Deep Learning* (Recurrent Neural Networks) para séries temporais focados na detecção de falhas em usinas hidrelétricas. 
 
