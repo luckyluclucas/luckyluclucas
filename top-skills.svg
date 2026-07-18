@@ -1,0 +1,32 @@
+<svg width="495" height="165" viewBox="0 0 495 165" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Top Skills: IA e Machine Learning">
+  <rect x="0.5" y="0.5" width="494" height="164" rx="4.5" fill="#0D1117" stroke="#30363D"/>
+  <text x="25" y="33" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="18" font-weight="600" fill="#58A6FF">Top Skills · IA &amp; Machine Learning</text>
+
+  <clipPath id="bar">
+    <rect x="25" y="48" width="445" height="8" rx="4"/>
+  </clipPath>
+  <g clip-path="url(#bar)">
+    <rect x="25"    y="48" width="124.6" height="8" fill="#1F6FEB"/>
+    <rect x="149.6" y="48" width="80.1"  height="8" fill="#58A6FF"/>
+    <rect x="229.7" y="48" width="62.3"  height="8" fill="#79C0FF"/>
+    <rect x="292.0" y="48" width="62.3"  height="8" fill="#388BFD"/>
+    <rect x="354.3" y="48" width="62.3"  height="8" fill="#A5D6FF"/>
+    <rect x="416.6" y="48" width="53.4"  height="8" fill="#8B949E"/>
+  </g>
+
+  <g font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="12">
+    <circle cx="31" cy="81" r="5" fill="#1F6FEB"/>
+    <text x="43" y="85" fill="#C9D1D9">Redes Neurais · LSTM <tspan fill="#8B949E">28%</tspan></text>
+    <circle cx="31" cy="106" r="5" fill="#58A6FF"/>
+    <text x="43" y="110" fill="#C9D1D9">Transformers <tspan fill="#8B949E">18%</tspan></text>
+    <circle cx="31" cy="131" r="5" fill="#79C0FF"/>
+    <text x="43" y="135" fill="#C9D1D9">CNNs <tspan fill="#8B949E">14%</tspan></text>
+
+    <circle cx="266" cy="81" r="5" fill="#388BFD"/>
+    <text x="278" y="85" fill="#C9D1D9">Gradient Boosting <tspan fill="#8B949E">14%</tspan></text>
+    <circle cx="266" cy="106" r="5" fill="#A5D6FF"/>
+    <text x="278" y="110" fill="#C9D1D9">Cálculo estatístico <tspan fill="#8B949E">14%</tspan></text>
+    <circle cx="266" cy="131" r="5" fill="#8B949E"/>
+    <text x="278" y="135" fill="#C9D1D9">Random Forest · KNN <tspan fill="#8B949E">12%</tspan></text>
+  </g>
+</svg>

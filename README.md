@@ -37,5 +37,5 @@ Faço a ponte entre a engenharia (mecânica/elétrica) e o software, de ponta a 
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luckyluclucas&theme=github_dark" height="165" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luckyluclucas&theme=github_dark" height="165" alt="Top Languages" />
+  <img src="./top-skills.svg" height="165" alt="Top Skills — IA e Machine Learning" />
 </div>
