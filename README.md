@@ -29,13 +29,13 @@ Faço a ponte entre a engenharia (mecânica/elétrica) e o software, de ponta a 
 <div align="center">
   <p>Meu portfólio demonstra isso ao vivo — sunburst 3D de risco de ativos, predição × real e um agente de IA em ação:</p>
   <a href="https://portfolio-lovat-gamma-35.vercel.app/">
-    <img src="https://raw.githubusercontent.com/luckyluclucas/portfolio/main/marketing/site-preview.gif" alt="Preview do portfólio — rede neural 3D e sunburst de risco de ativos" width="720" />
+    <img src="https://raw.githubusercontent.com/reanlucas/portfolio/main/marketing/site-preview.gif" alt="Preview do portfólio — rede neural 3D e sunburst de risco de ativos" width="720" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luckyluclucas&theme=github_dark" height="165" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reanlucas&theme=github_dark" height="165" alt="GitHub Stats" />
   <img src="./top-skills.svg" height="165" alt="Top Skills — IA e Machine Learning" />
 </div>
