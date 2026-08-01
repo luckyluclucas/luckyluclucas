@@ -36,6 +36,6 @@ Faço a ponte entre a engenharia (mecânica/elétrica) e o software, de ponta a 
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reanlucas&theme=github_dark" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=reanlucas&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=1F6FEB&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" height="165" alt="GitHub Streak Stats" />
   <img src="./top-skills.svg" height="165" alt="Top Skills — IA e Machine Learning" />
 </div>
